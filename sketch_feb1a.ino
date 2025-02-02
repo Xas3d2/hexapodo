@@ -65,6 +65,7 @@ const char htmlPage[] PROGMEM = R"rawliteral(
     <div class="button-container">
         <button id="boton1" class="button red" onclick="buttonclick(this);">Mover Servo</button>
         <button id="boton2" class="button green" onclick="buttonclick(this);">Mover Servo</button>
+        <button id="boton3" class="button green" onclick="buttonclick(this);">Mover Servo</button>
     </div>
 </body>
 </html>
